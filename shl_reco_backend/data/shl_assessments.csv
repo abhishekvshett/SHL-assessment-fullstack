@@ -1,0 +1,7 @@
+name,url,remote_support,irt_support,duration,test_type
+Verify Numerical Reasoning,https://www.shl.com/test1,Yes,Yes,20,Cognitive
+General Cognitive Ability,https://www.shl.com/test2,Yes,No,25,Cognitive
+Personality Assessment,https://www.shl.com/test3,Yes,Yes,30,Personality
+Technical Test - Java,https://www.shl.com/test4,Yes,Yes,40,Technical
+Python SQL JS Assessment,https://www.shl.com/test5,Yes,No,60,Technical
+Behavioral Interview,https://www.shl.com/test6,Yes,No,45,Behavioral
